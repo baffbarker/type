@@ -9,8 +9,8 @@
 title:       Type
 email:       ''
 description: ''
-baseurl:     /type
-url:         https://baffbarker.github.io
+baseurl:     '/type'
+url:         ''
 twitter:     ''
 github:      ''
 instagram:   ''

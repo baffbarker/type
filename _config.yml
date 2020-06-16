@@ -46,3 +46,6 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+
+# Google Analytics
+google_analytics: UA-147400325-1     
